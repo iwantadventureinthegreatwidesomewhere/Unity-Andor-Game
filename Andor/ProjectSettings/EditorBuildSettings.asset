@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GameSetUpScenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/GameSetUpScenes/LoadGameSetUp.unity
+    guid: 6d286d6b6c3b62e41a3af2a3bf7a3f59
+  - enabled: 0
+    path: Assets/Scenes/GameSetUpScenes/NewGameSetUp.unity
+    guid: 8042710b77f9fe748b4bb968b0a0c32a
+  - enabled: 0
+    path: Assets/Scenes/GameSetUpScenes/Settings.unity
+    guid: 2f0c661ae2bd6074ab41c2874887fc63
+  - enabled: 0
+    path: Assets/Scenes/GameSetUpScenes/SignIn.unity
+    guid: 9c2a586d6ab8aaf4cb36236a28f97e87
+  - enabled: 0
+    path: Assets/Scenes/GameSetUpScenes/SignUp.unity
+    guid: 8b56f3e5aa529514bba4ad62cf5e3047
+  - enabled: 1
+    path: Assets/Scenes/GameSetUpScenes/WaitRoom.unity
+    guid: e0de18b9fa79856409039acbe42922a1
+  - enabled: 1
+    path: Assets/Scenes/GameScene/GameSceneDemo.unity
+    guid: 564f9d71c8fae7547b480b36197450ae
+  - enabled: 0
+    path: Assets/Network testing/Matchmakng.unity
+    guid: 4b98b9295061a12438509a819835cf7c
+  - enabled: 0
+    path: Assets/Network testing/MultiplayerScene.unity
+    guid: 9d85c1cbba86c1649978af728fb9f6cb
+  m_configObjects: {}
